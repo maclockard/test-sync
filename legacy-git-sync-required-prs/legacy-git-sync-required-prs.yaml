@@ -1,6 +1,6 @@
 schemaVersion: 3
 meta:
-  sourceVersionId: 03d7b3b5-181b-49ce-b8ce-e0ff24e27723 # DO NOT CHANGE - Hex uses this to match up project versions when reimporting the file
+  sourceVersionId: 8fcb3fcc-7ca3-4850-9a10-8c4529ed9870 # DO NOT CHANGE - Hex uses this to match up project versions when reimporting the file
   description: ""
   projectId: 3f53885f-8f2e-4a03-9385-bb57935750c4 # DO NOT CHANGE - Unique ID of the project from which this file was generated
   title: Legacy git sync required PRs
@@ -12,6 +12,7 @@ meta:
   castDecimalsDefault: true
   logicQueryCacheTimeout: null
   publishedQueryCacheTimeout: null
+  hexType: PROJECT
 projectAssets:
   dataConnections: []
   envVars: []
@@ -26,7 +27,7 @@ cells:
     cellId: 554164c3-1f95-4a85-b879-13850afca66b # DO NOT CHANGE - Hex uses this to match up cells when reimporting the file, and detect any changes to existing cells
     cellLabel: null
     config:
-      source: print("hello world!")
+      source: print("hello world!!")
 appLayout:
   visibleMetadataFields:
     - NAME
